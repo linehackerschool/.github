@@ -1,4 +1,4 @@
-## Welcome to LINE HACKER SCHOOL's GitHub plofile!
+## Welcome to LINE HACKER SCHOOL's GitHub profile!
 ハッカーの学校は、オープンチャットです。
 
 - ハッカーの学校について知る📚 → [WebSite](https://linehackerschool.github.io)
